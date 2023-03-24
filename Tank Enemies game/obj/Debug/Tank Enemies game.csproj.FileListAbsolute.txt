@@ -1,0 +1,26 @@
+E:\Tank Enemies game\bin\Debug\Tank Enemies game.exe.config
+E:\Tank Enemies game\bin\Debug\Tank Enemies game.exe
+E:\Tank Enemies game\bin\Debug\Tank Enemies game.pdb
+E:\Tank Enemies game\obj\Debug\Tank Enemies game.csproj.AssemblyReference.cache
+E:\Tank Enemies game\obj\Debug\Tank_Enemies_game.Form1.resources
+E:\Tank Enemies game\obj\Debug\Tank_Enemies_game.Properties.Resources.resources
+E:\Tank Enemies game\obj\Debug\Tank Enemies game.csproj.GenerateResource.cache
+E:\Tank Enemies game\obj\Debug\Tank Enemies game.csproj.CoreCompileInputs.cache
+E:\Tank Enemies game\obj\Debug\Tank Enemies game.exe
+E:\Tank Enemies game\obj\Debug\Tank Enemies game.pdb
+E:\Tank Enemies game\bin\Debug\EZInput.dll
+E:\Tank Enemies game\bin\Debug\EZInput.xml
+E:\Tank Enemies game\obj\Debug\Tank Enemies game.csproj.CopyComplete
+D:\final video first Year\Tank Enemies game\bin\Debug\Tank Enemies game.exe.config
+D:\final video first Year\Tank Enemies game\bin\Debug\Tank Enemies game.exe
+D:\final video first Year\Tank Enemies game\bin\Debug\Tank Enemies game.pdb
+D:\final video first Year\Tank Enemies game\bin\Debug\EZInput.dll
+D:\final video first Year\Tank Enemies game\bin\Debug\EZInput.xml
+D:\final video first Year\Tank Enemies game\obj\Debug\Tank Enemies game.csproj.AssemblyReference.cache
+D:\final video first Year\Tank Enemies game\obj\Debug\Tank_Enemies_game.Form1.resources
+D:\final video first Year\Tank Enemies game\obj\Debug\Tank_Enemies_game.Properties.Resources.resources
+D:\final video first Year\Tank Enemies game\obj\Debug\Tank Enemies game.csproj.GenerateResource.cache
+D:\final video first Year\Tank Enemies game\obj\Debug\Tank Enemies game.csproj.CoreCompileInputs.cache
+D:\final video first Year\Tank Enemies game\obj\Debug\Tank Enemies game.csproj.CopyComplete
+D:\final video first Year\Tank Enemies game\obj\Debug\Tank Enemies game.exe
+D:\final video first Year\Tank Enemies game\obj\Debug\Tank Enemies game.pdb
